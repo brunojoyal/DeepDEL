@@ -5,6 +5,8 @@ models a DEL as a three-cycle (trimeric) library built from building-block (BB)
 pools, scores candidate products with a learned surrogate of docking, and trains
 a GFlowNet to sample high-quality libraries.
 
+Building blocks (`data/bbs.csv`) provided graciously by [Enamine](http://www.enamine.net).
+
 ---
 
 ## Repository layout
