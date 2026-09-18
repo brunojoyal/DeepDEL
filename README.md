@@ -1,9 +1,6 @@
 # DeepDEL
 
-GFlowNet-based framework for designing **DNA-Encoded Libraries (DELs)**. It
-models a DEL as a three-cycle (trimeric) library built from building-block (BB)
-pools, scores candidate products with a learned surrogate of docking, and trains
-a GFlowNet to sample high-quality libraries.
+GFlowNet-based framework for designing **DNA-Encoded Libraries (DELs)**.
 
 Building blocks (`data/bbs.csv`) provided graciously by [Enamine](http://www.enamine.net).
 
