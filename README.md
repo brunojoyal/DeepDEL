@@ -1,4 +1,4 @@
-# DEL-GFN
+# DeepDEL
 
 GFlowNet-based framework for designing **DNA-Encoded Libraries (DELs)**. It
 models a DEL as a three-cycle (trimeric) library built from building-block (BB)
